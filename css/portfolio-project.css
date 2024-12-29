@@ -15,3 +15,7 @@ ul {
     color: rgb(52, 180, 174);
     font-size: 25px;
 }
+
+li:hover {
+    color: fuchsia;
+}
