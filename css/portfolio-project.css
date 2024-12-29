@@ -1,0 +1,17 @@
+h1, .links {
+    text-align: center;
+    background-color: rgb(52, 180, 174);
+}
+
+h1, h2, h3 {
+    color: purple;
+}
+
+ul {
+    list-style-type: square;
+}
+
+::marker {
+    color: rgb(52, 180, 174);
+    font-size: 25px;
+}
