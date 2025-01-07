@@ -1,14 +1,9 @@
-h1, .links {
-    text-align: center;
-    background-color: rgb(52, 180, 174);
-}
-
 h1, h2, h3 {
     color: purple;
 }
 
 ul {
-    list-style-type: square;
+    list-style-type: circle;
 }
 
 ::marker {
@@ -19,3 +14,24 @@ ul {
 li:hover {
     color: fuchsia;
 }
+
+.navbar {
+    background-image: linear-gradient(to right, rgb(52, 180, 174), white, rgb(52, 180, 174));
+    padding: 20px 0;
+}
+
+.navbar-brand {
+    color: purple;
+    font-weight: bold;
+}
+
+.nav-link {
+    color: purple;
+}
+
+footer {
+    background-image: linear-gradient(rgb(52, 180, 174), white);
+    padding: 20px 0;
+    text-align: center;
+}
+
