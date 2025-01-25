@@ -11,12 +11,8 @@ ul {
     font-size: 25px;
 }
 
-li:hover {
-    color: fuchsia;
-}
-
 .navbar {
-    background-image: linear-gradient(to right, rgb(52, 180, 174), white, rgb(52, 180, 174));
+    background-image: linear-gradient(to right, rgb(52, 180, 174), rgb(132, 240, 234), rgb(52, 180, 174));
     padding: 20px 0;
 }
 
